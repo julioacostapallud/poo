@@ -1,0 +1,14 @@
+// Override default variables before the import
+$body-bg: #FAFAFA;
+/* Material Design Background */
+$primary: #1976D2;
+/* Material Design Blue */
+$secondary: #bdbbaa;
+/* Material Design Yellow */
+$green: #81C784;
+/* Material Design Green */
+$red: #E57373;
+/* Material Design Red */
+
+// Import Bootstrap and its default variables
+@import '~bootstrap/scss/bootstrap.scss';
